@@ -80,6 +80,7 @@ export default function Login({ status, canResetPassword }) {
                     </label>
                 </div>
 
+
                 <div className="mt-4 flex items-center justify-end">
                     <Link
                         href={route('register')}
